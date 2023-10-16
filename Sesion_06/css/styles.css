@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Lobster&display=swap');
+
+body {
+    font-family: 'Century Gothic', sans-serif;
+}
+
+header {
+    background-color: #000;
+    text-align: center;
+    padding: 20px 0;
+    color: #fff;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 100;
+    font-family: Lobster, cursive;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 100;
+    font-family: Acme, sans-serif;
+}
+
+label {
+    display: block;
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="button"] {
+    cursor: pointer;
+    background-color: #000;
+    width: 20%;
+    padding: 8px 0;
+    border-radius: 5px;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.caja{
+    width: 600px;
+    position: relative;
+    margin: 150px auto;
+}
+
+.input{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 100%;
+    border-radius: 20px;
+    border: 2px solid #000;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.buttons {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+input[type="button"]:hover {
+    background: white;
+    color: black;
+    transform: scale(1.1);
+}
+
+.results {
+    margin-top: 50px;
+    text-align: center;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    width: 100%;
+}
+
+#response {
+    margin-top: 30px;
+    font-size: 25px;
+}
