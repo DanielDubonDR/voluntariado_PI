@@ -28,8 +28,5 @@
 ### Referencias
 
 - **Documentaciones**
-  - `HTML Reference`
-  - `Documentación Mozilla`
-
-- **Extensiones VSCode**
-  - `Live Server`
+  - [`HTML Reference`](https://htmlreference.io/)
+  - [`Documentación Mozilla`](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web)
