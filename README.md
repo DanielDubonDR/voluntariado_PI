@@ -16,3 +16,10 @@
 - [`Sesión 4: HTML`](./Sesion_04)
 - [`Sesión 5: CSS`](./Sesion_05)
 - [`Sesión 6: JS`](./Sesion_06)
+
+- **Bonus**
+
+    Por si desean practicar o ver como aplicar otros conceptos aca les dejo un ejemplo de una calculadora completa con todas las operaciones y con un diseño mas agradable.
+
+  - [`Preview`](https://danieldubondr.github.io/Calc/)
+  - [`Codigo`](https://github.com/DanielDubonDR/Calc)
